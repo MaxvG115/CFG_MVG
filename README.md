@@ -19,3 +19,5 @@ The parser file (chatbot.y) was updated to define new tokens and add correspondi
 - Token NAME to handle "what is your name"
 - Token WEATHER to handle "what is the weather"
 - Token HOWAREYOU to handle "how are you"
+
+### Run it with ./chatbot in the projects directory
